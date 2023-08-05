@@ -7,5 +7,3 @@
 - 📖 I'm currently learning **Python** and **C#**
 
 - ✉️ You can reach me at **ilas.developer@gmail.com**
-
-- 💼 My portfolio is available at **https://ilas.works/** (I'm still working on it)
