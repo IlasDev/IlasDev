@@ -4,25 +4,25 @@
 
 I'm Edoardo Ilas, a tech enthusiast from Italy.<br/>I am interested in Android and web development.
 
-[![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg)](https://ilas.works)
-[![](https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee1.svg)](https://ko-fi.com/ilasdev)
+[![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg)](https://ilas.works)
+[![](https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee2.svg)](https://ko-fi.com/ilasdev)
 
 ### Tools
 
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea1.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio1.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Atom/atom1.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Atom/atom2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg)
 
 ### Technologies
 
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django1.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/jQuery/jquery1.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/jQuery/jquery2.svg)
 
 </div>
 
