@@ -1,9 +1,31 @@
-<h1 align="center">Welcome to my profile, I'm Edoardo Ilas</h1>
+<div align="center">
 
-<p>Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"> My name is Edoardo and I enjoy developing Android applications. My interest started in 2019, when someone asked me if I was able to make an application for them that didn't exist at the time. Today, my goal is to improve my experience and share open-source applications on the internet. I've also tried other stuff, such as Web Design, Web Development, Game Development, Arduino, and more.</p>
+## Welcome to my profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">
 
-### About me
+I'm Edoardo Ilas, a tech enthusiast from Italy.<br/>I am interested in Android and web development.
 
-- 📖 I'm currently learning **Python** and **C#**
+[![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg)](https://ilas.works)
+[![](https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee1.svg)](https://ko-fi.com/ilasdev)
 
-- ✉️ You can reach me at **ilas.developer@gmail.com**
+### Tools
+
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea1.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio1.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Atom/atom1.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
+
+### Technologies
+
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django1.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/jQuery/jquery1.svg)
+
+</div>
+
+---
+
+![](https://metrics.lecoq.io/IlasDev?template=classic&config.timezone=Italy)
