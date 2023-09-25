@@ -2,7 +2,7 @@
 
 ## Welcome to my profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">
 
-I'm Edoardo Ilas, a tech enthusiast from Italy.<br/>I am interested in Android and web development.
+I'm Edoardo, a tech enthusiast from Italy.<br/>I am interested in Android and web development.
 
 [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg)](https://ilas.works)
 [![](https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee2.svg)](https://ko-fi.com/ilasdev)
