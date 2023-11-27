@@ -1,31 +1,29 @@
 <div align="center">
 
-## Welcome to my profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">
+### Welcome to my profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
+</p>
 
 I'm Edoardo, a tech enthusiast from Italy.<br/>I am interested in Android and web development.
 
-[![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg)](https://ilas.works)
-[![](https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee2.svg)](https://ko-fi.com/ilasdev)
+<br>
 
-### Tools
+[![](https://img.shields.io/badge/Portfolio-cba6f7?style=for-the-badge&logo=About.me&logoColor=black)](https://ilas.works)
+[![](https://img.shields.io/badge/Ko--fi-b4befe?style=for-the-badge&logo=ko-fi&logoColor=black)](https://ko-fi.com/ilasdev)
 
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Atom/atom2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg)
+![](https://img.shields.io/badge/GIT-eba0ac?style=for-the-badge&logo=git&logoColor=black)
+![](https://img.shields.io/badge/Atom-f9e2af?style=for-the-badge&logo=Atom&logoColor=black)
+![](https://img.shields.io/badge/Android_Studio-a6e3a1?style=for-the-badge&logo=android-studio&logoColor=black)
+![](https://img.shields.io/badge/Visual_Studio_Code-74c7ec?style=for-the-badge&logo=visual%20studio%20code&logoColor=black)
+![](https://img.shields.io/badge/IntelliJ_IDEA-cba6f7.svg?style=for-the-badge&logo=intellij-idea&logoColor=black)
 
-### Technologies
+![](https://img.shields.io/badge/Java-eba0ac?style=for-the-badge&logo=openjdk&logoColor=black)
+![](https://img.shields.io/badge/JavaScript-f9e2af?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/NodeJS-a6e3a1?style=for-the-badge&logo=nodedotjs&logoColor=black)
+![](https://img.shields.io/badge/Django-94e2d5?style=for-the-badge&logo=django&logoColor=black)
+![](https://img.shields.io/badge/Python-89dceb?style=for-the-badge&logo=python&logoColor=black)
+![](https://img.shields.io/badge/jQuery-74c7ec?style=for-the-badge&logo=jquery&logoColor=black)
 
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/jQuery/jquery2.svg)
-
-</div>
-
----
-
-![](https://metrics.lecoq.io/IlasDev?template=classic&config.timezone=Italy)
+![](https://streak-stats.demolab.com?user=IlasDev&theme=catppuccin-mocha&hide_border=true&background=EB545400&stroke=EB545400&hide_current_streak=true)
