@@ -10,7 +10,7 @@ I'm Edoardo, a tech enthusiast from Italy.<br/>I am interested in Android and we
 
 <br>
 
-[![](https://img.shields.io/badge/Portfolio-cba6f7?style=for-the-badge&logo=About.me&logoColor=black)](https://ilas.works)
+[![](https://img.shields.io/badge/Portfolio-cba6f7?style=for-the-badge&logo=About.me&logoColor=black)](https://ilas.dev)
 [![](https://img.shields.io/badge/Ko--fi-b4befe?style=for-the-badge&logo=ko-fi&logoColor=black)](https://ko-fi.com/ilasdev)
 
 ![](https://img.shields.io/badge/GIT-eba0ac?style=for-the-badge&logo=git&logoColor=black)
